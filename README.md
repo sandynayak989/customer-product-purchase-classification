@@ -1,6 +1,6 @@
 # Customer Product Purchase Classification
 Data science project for customer purchase prediction using feature engineering and machine learning models (Random Forest, XGBoost, Logistic Regression).
-
+`Check ProjectReport for a detailed report of the project`
 ## Features
 - Data preprocessing and feature engineering
 - Model training and evaluation
