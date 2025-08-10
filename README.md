@@ -20,6 +20,7 @@ Data science project for customer purchase prediction using feature engineering 
 - `main.py`: Main code for data processing and modeling
 - `requirements.txt`: List of required Python packages
 - `Dataset.txt`, `Dataset_test.txt`: Input data files
+- `training_predictions.txt`, `test_predictions.txt`: Output prediction files
 
 ## Model Evaluation
 -`ModelEvaluation` folder contains the notebook file for model evaluation and analysis.
